@@ -14,4 +14,8 @@
     <ProjectReference Include="..\DonutsVikets.Models\DonutsVikets.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.10" />
+  </ItemGroup>
+
 </Project>

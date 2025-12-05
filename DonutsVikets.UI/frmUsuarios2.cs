@@ -1,17 +1,9 @@
-﻿using DonutsVikets.DAL.Repositories;
+﻿using DonutsVikets.DAL.Data;
+using DonutsVikets.DAL.Repositories;
 using DonutsVikets.DTOs;
 using Microsoft.EntityFrameworkCore;
 using Project.BLL.Services;
-using Project.DAL.Data;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace DonutsVikets.UI
 {

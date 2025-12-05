@@ -1,7 +1,7 @@
 ﻿// Project.DAL/Repositories/UsuarioRepository.cs
+using DonutsVikets.DAL.Data;
 using DonutsVikets.Models;
 using Microsoft.EntityFrameworkCore;
-using Project.DAL.Data;
 
 
 namespace DonutsVikets.DAL.Repositories
