@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="COMANDOS.TXT" />
+    <None Include="COMANDOS.cs" />
   </ItemGroup>
 
   <ItemGroup>
