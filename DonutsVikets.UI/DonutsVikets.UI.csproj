@@ -9,7 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DonutsVikets.BLL\DonutsVikets.BLL.csproj" />
     <ProjectReference Include="..\DonutsVikets.DTO\DonutsVikets.DTO.csproj" />
+    <ProjectReference Include="..\DonutsVikets.Models\DonutsVikets.Models.csproj" />
   </ItemGroup>
 
 </Project>
